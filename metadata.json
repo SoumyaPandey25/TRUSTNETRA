@@ -1,0 +1,6 @@
+{
+  "name": "Banking Cybersecurity Platform",
+  "description": "Adaptive Trust Fabric and threat intelligence exchange platform for public sector banks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
