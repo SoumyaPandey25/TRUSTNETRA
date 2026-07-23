@@ -624,3 +624,7 @@ and from:
 > **Reactive Fraud Detection → Proactive, Continuous Identity Trust Assurance**
 
 ---
+
+**Thank You !**
+
+---
